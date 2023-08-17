@@ -6,7 +6,7 @@
 
 # Open-source BR
 
-Espaço para divulgação de projetos open-source brasileiros.
+Espaço para divulgação de projetos open-source brasileiros. :moneybag:
 
 <div id='projects'></div>
 
